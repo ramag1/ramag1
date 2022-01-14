@@ -1,4 +1,8 @@
 <h1>Welcome to my page!</h1>
+<h2>About me</h2>
+
+<h2>I'm currently working on...</h2>
+<p>Student in progress</p>
 
 <h2>I'm currently working on...</h2>
 <p>Student in progress</p>
