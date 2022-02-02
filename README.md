@@ -1,12 +1,15 @@
 <h1>Welcome to my page!</h1>
 <h2>About me</h2>
-<p>Beauty negotiator turned coder. </p>
+<p>Corporate Beauty negotiator turned coder. </br>
+  Equal parts specialist and generalist. </br>
+  Endless curiousity, with "Why?" as my favorite question.
+  </p>
+
+<h2>I'm currently learning...</h2>
+<p>The importance of a beginner's mindset. </p>
 
 <h2>I'm currently working on...</h2>
-<p>Student in progress</p>
-
-<h2>I'm currently working on...</h2>
-<p>Student in progress</p>
+<p>Student in progress, anticipated graduation on February 18, 2022.</p>
 <!--
 **ramag1/ramag1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
