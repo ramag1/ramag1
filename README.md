@@ -1,12 +1,12 @@
-<h1>Welcome to my page!</h1>
+<h1>Welcome, my name is Rachel Magley ✨</h1>
 <h2>About me</h2>
-<p>Equal parts engineering and exploring. Outdoor & underwater enthusiast.</p>
+<p>Equal parts engineering and exploring. Outdoor & underwater enthusiast. :diving_mask:</p>
 
 <h2>I'm currently learning...</h2>
-<p>The importance of a beginner's mindset. </p>
+<p>The importance of a beginner's mindset and self-teaching as a programmer.</p>
 
 <h2>I'm currently working on...</h2>
-<p>Student in progress, anticipated graduation on February 18, 2022.</p>
+<p>Sharpening my code challenge thought process and absorbing the content I have learned in 3 months through various projects. Check out my repos for more information! </p>
 <!--
 **ramag1/ramag1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
