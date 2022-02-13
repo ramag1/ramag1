@@ -1,9 +1,6 @@
 <h1>Welcome to my page!</h1>
 <h2>About me</h2>
-<p>Corporate Beauty negotiator turned coder. </br>
-  Equal parts specialist and generalist. </br>
-  Endless curiousity, with "Why?" as my favorite question.
-  </p>
+<p>Equal parts engineering and exploring. Outdoor & underwater enthusiast.</p>
 
 <h2>I'm currently learning...</h2>
 <p>The importance of a beginner's mindset. </p>
