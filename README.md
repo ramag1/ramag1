@@ -1,4 +1,4 @@
-<h1>Welcome, my name is Rachel Magley ✨</h1>
+<h1>✨ Rachel Magley ✨</h1>
 <h2>About me</h2>
 <p>Equal parts engineering and exploring. Outdoor & underwater enthusiast. :diving_mask:</p>
 
